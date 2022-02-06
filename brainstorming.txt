@@ -1,0 +1,9 @@
+Goal:
+    Be able to calculate amount of time to pay off a loan for a given budget.
+    * If I make a purchase today (every month) how will effect the time to pay off.
+    
+Objects:
+    * Amortization Chart
+    * Pay Schedule
+    * Purchase
+    * Budget
