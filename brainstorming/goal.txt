@@ -7,3 +7,5 @@ Objects:
     * Pay Schedule
     * Purchase
     * Budget
+    * Loan
+    * Calendar
